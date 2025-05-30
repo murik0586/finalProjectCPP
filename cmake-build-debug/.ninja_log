@@ -1,0 +1,21 @@
+# ninja log v6
+11	722	7703301141821343	CMakeFiles/finalProjectCPP.dir/src/Customer.cpp.obj	18a0e47f908ec121
+20	725	7703301141911412	CMakeFiles/finalProjectCPP.dir/src/Product.cpp.obj	76b612137e0ddba9
+5	736	7703301141761390	CMakeFiles/finalProjectCPP.dir/src/Book.cpp.obj	452675aeb3bcf3f6
+14	746	7703301141851344	CMakeFiles/finalProjectCPP.dir/src/Electronics.cpp.obj	c3001596bbe250cd
+8	748	7703301141791321	CMakeFiles/finalProjectCPP.dir/src/Clothing.cpp.obj	c5f9a32f6267c3bb
+24	1204	7703301141951358	CMakeFiles/finalProjectCPP.dir/src/main.cpp.obj	8b28af4651f5f8c1
+17	1985	7703301141881337	CMakeFiles/finalProjectCPP.dir/src/Marketplace.cpp.obj	9a149fbb2a131231
+1986	2249	7703301161568417	finalProjectCPP.exe	350663e55ba330d9
+11	591	7703304663043222	CMakeFiles/finalProjectCPP.dir/src/Clothing.cpp.obj	c5f9a32f6267c3bb
+15	611	7703304663083182	CMakeFiles/finalProjectCPP.dir/src/Customer.cpp.obj	18a0e47f908ec121
+18	613	7703304663113190	CMakeFiles/finalProjectCPP.dir/src/Electronics.cpp.obj	c3001596bbe250cd
+23	1065	7703304663163238	CMakeFiles/finalProjectCPP.dir/src/main.cpp.obj	8b28af4651f5f8c1
+20	1859	7703304663133209	CMakeFiles/finalProjectCPP.dir/src/Marketplace.cpp.obj	9a149fbb2a131231
+1859	2124	7703304681522499	finalProjectCPP.exe	350663e55ba330d9
+9	896	7703304862702266	CMakeFiles/finalProjectCPP.dir/src/main.cpp.obj	8b28af4651f5f8c1
+897	1164	7703304871587138	finalProjectCPP.exe	350663e55ba330d9
+11	1435	7703307991941063	CMakeFiles/finalProjectCPP.dir/src/main.cpp.obj	8b28af4651f5f8c1
+1436	1738	7703308006184884	finalProjectCPP.exe	350663e55ba330d9
+9	1345	7703309613201027	CMakeFiles/finalProjectCPP.dir/src/main.cpp.obj	8b28af4651f5f8c1
+1345	1622	7703309626562742	finalProjectCPP.exe	350663e55ba330d9
